@@ -5,13 +5,6 @@ import math._
 import sys._
 
 
-/**
- * Created with IntelliJ IDEA.
- * User: s.maetschke
- * Date: 29/01/13
- * Time: 1:44 PM
- * To change this template use File | Settings | File Templates.
- */
 object Chiffon  {
   def main(args:Array[String]) {
   import Conversions._
